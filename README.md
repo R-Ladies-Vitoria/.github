@@ -2,7 +2,7 @@
 
 Este é o repositório do capitulo de Vitória (Espirito Santo) do R-Ladies, uma organização mundial cuja missão é promover a diversidade de gênero na comunidade da linguagem R.
 
-As organizadora são voluntárias e os eventos organizados são todos gratuitos.
+As organizadoras são voluntárias e os eventos divulgados são gratuitos.
 
 ## Contate-nos:
 

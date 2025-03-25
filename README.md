@@ -1,4 +1,4 @@
-## R-Ladies Vitória
+## R-Ladies Vitória 
 
 Este é o repositório do capitulo de Vitória (Espirito Santo) do R-Ladies, uma organização mundial cuja missão é promover a diversidade de gênero na comunidade da linguagem R.
 
